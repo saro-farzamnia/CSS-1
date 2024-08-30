@@ -1,0 +1,24 @@
+h1{
+    color: #ff0000;
+    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    width: 10vw;
+    min-width: 2rem;
+    max-width: 10rem;
+}
+#pTag{
+    color: rgb(60, 77, 151);
+}
+
+.css{
+    color: rgba(90, 150, 200, 0.5)
+}
+.lorem{
+    color: blue;
+    background-color: rgb(255, 255, 3);
+    width: 90vw;
+    height: 10vh;
+    /* min-width: 80vw;
+    max-width: 90rem;
+    min-height: 5rem;
+    max-height: 6rem; */
+}
